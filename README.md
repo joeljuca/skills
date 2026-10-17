@@ -5,6 +5,17 @@
 
 My highly-opinionated AI skills.
 
+## Skills
+
+- **code-review**
+  ```sh
+  npx skills add joeljuca/skills/code-review
+  ```
+- **postgres-engineer**
+  ```sh
+  npx skills add joeljuca/skills/postgres-engineer
+  ```
+
 ## License
 
 [Apache 2.0](LICENSE)
