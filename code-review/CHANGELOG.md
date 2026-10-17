@@ -36,11 +36,18 @@ Templates:
 
 ### Removed
 
+## [0.2.0] - 2026-10-17
+
+### Changed
+
+- skill dir moved to repository root, now available as `npx skills add joeljuca/skills/code-review`
+
 ## [0.1.0] - 2026-08-02
 
 ### Added
 
 - Skill: Code Review (extracted from Codex' Review Agent: https://github.com/openai/codex/blob/main/codex-rs/skills/src/assets/samples/review-agent/SKILL.md)
 
-[unreleased]: https://github.com/joeljuca/skills/compare/code-review-v0.1.0...HEAD
+[unreleased]: https://github.com/joeljuca/skills/compare/code-review-v0.2.0...HEAD
+[0.2.0]: https://github.com/joeljuca/skills/releases/tag/code-review-v0.2.0
 [0.1.0]: https://github.com/joeljuca/skills/releases/tag/code-review-v0.1.0
