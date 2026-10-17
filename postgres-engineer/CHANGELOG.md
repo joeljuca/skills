@@ -30,13 +30,21 @@ Templates:
 
 ### Added
 
-- Changelog file: `CHANGELOG.md`
-
 ### Changed
 
 ### Fixed
 
 ### Removed
+
+## [0.2.0] - 2026-10-17
+
+### Added
+
+- `CHANGELOG.md`
+
+### Changed
+
+- skill dir moved to repository root, now available as `npx skills add joeljuca/skills/postgres-engineer`
 
 ## [0.1.1] - 2026-05-27
 
@@ -50,6 +58,7 @@ Templates:
 
 - Skill: Postgres Engineer
 
-[unreleased]: https://github.com/joeljuca/skills/compare/postgres-engineer-v0.1.1...HEAD
+[unreleased]: https://github.com/joeljuca/skills/compare/postgres-engineer-v0.2.0...HEAD
+[0.2.0]: https://github.com/joeljuca/skills/compare/postgres-engineer-v0.1.1...postgres-engineer-v0.2.0
 [0.1.1]: https://github.com/joeljuca/skills/compare/postgres-engineer-v0.1.0...postgres-engineer-v0.1.1
 [0.1.0]: https://github.com/joeljuca/skills/releases/tag/postgres-engineer-v0.1.0
