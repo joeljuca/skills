@@ -11,6 +11,10 @@ My highly-opinionated AI skills.
   ```sh
   npx skills add joeljuca/skills/code-review
   ```
+- **elixir-engineer**
+  ```sh
+  npx skills add joeljuca/skills/elixir-engineer
+  ```
 - **postgres-engineer**
   ```sh
   npx skills add joeljuca/skills/postgres-engineer
